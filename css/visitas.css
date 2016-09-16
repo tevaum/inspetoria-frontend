@@ -1,0 +1,19 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
+
+.schools > div {
+    background: url(/img/school.jpg);
+    background-size: 100% 100%;
+    color: #FFF;
+    text-align: center;
+    min-height: 100px;
+}
+
+abbr {
+    border: none;
+}
+
+.schools div div {
+    padding: 0px 16px;
+    font-size: 0.7em;
+    font-weight: bold;
+}
